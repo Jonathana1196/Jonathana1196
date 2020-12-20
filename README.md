@@ -26,6 +26,14 @@
   <img align="left" alt="Jonathan's CoderRanks" width="22px" src="https://user-images.githubusercontent.com/3371601/72540690-d32c8d80-3846-11ea-9690-c0ed6c479309.png" />
 </a>
 
+## **Español  **
+
+### **Sobre mí:**
+
+<details>
+  <summary>:zap: Estadísticas de GitHub</summary>
+  <img src="https://github-readme-stats.vercel.app/api?username=Jonathana1196&&show_icons=true&theme=algolia&bg_color=DEG,000000,151515,101015&icon_color=155085&title_color=155099&locale=es&count_private=true">
+</details>
 
 
 <!--
