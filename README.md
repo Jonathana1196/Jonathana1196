@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**Jonathana1196/Jonathana1196** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Jonathana1196/Jonathana1196** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 Here are some ideas to get you started:
 
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... jonathana1196@gmail.com
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... xD
--->
+
