@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+
+<a href="https://github.com/kittinan/spotify-github-profile" target="blank">
+  <img align="right"
+    src="https://spotify-github-profile.vercel.app/api/view?uid=erickof18&cover_image=true&theme=default"
+    alt="spotify" />
+</a>
+
+
 <!--
 **Jonathana1196/Jonathana1196** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
