@@ -65,7 +65,7 @@
 ![Java](https://img.shields.io/badge/-java-brown?style=flat-square&logo=java)
 ![Octave](https://img.shields.io/badge/-Octave-black?style=flat-square&logo=Octave)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![Neo4j](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=neo4j)
+![Neo4j](https://img.shields.io/badge/-Neo4j-black?style=flat-square&logo=neo4j)
 ![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=Firebase)
 ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=Latex)
 
