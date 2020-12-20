@@ -49,7 +49,6 @@
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Anaconda](https://img.shields.io/badge/-Anaconda-black?style=flat-square&logo=Anaconda)
 ![Jupyter](https://img.shields.io/badge/-Jupyter%20Notebooks-black?style=flat-square&logo=Jupyter)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=NumPy)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=C%20Sharp)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
