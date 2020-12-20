@@ -3,7 +3,7 @@
 
 <a href="https://github.com/kittinan/spotify-github-profile" target="blank">
   <img align="right"
-    src="https://spotify-github-profile.vercel.app/api/view?uid=erickof18&cover_image=true&theme=default"
+    src="https://spotify-github-profile.vercel.app/api/view?uid=jonathan1196&cover_image=true&theme=default"
     alt="spotify" />
 </a>
 
