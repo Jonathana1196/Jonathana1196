@@ -55,6 +55,7 @@
 
 ![Anaconda](https://img.shields.io/badge/-Anaconda-black?style=flat-square&logo=Anaconda)
 ![Angular](https://img.shields.io/badge/-Angular-E23237?style=flat-square&logo=Angular)
+![Assembly](https://img.shields.io/badge/Assembly-Assembly-blue)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=C%20Sharp)
