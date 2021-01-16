@@ -1,53 +1,78 @@
 ### Hi there 👋
 
+<!--
+**Jonathana1196/Jonathana1196** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ... 
+- 👯 I’m looking to collaborate on ... 
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ... Anything
+- 📫 How to reach me: ... 
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+-->
+
+</br>
 <!--<p align="left">
   <img src="https://komarev.com/ghpvc/?username=ErickOF&label=Profile%20views&color=0e75b6&style=flat%22" alt="xtenzq"/>
 </p> -->
 
+</br>
+
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=jonathan1196&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
+
+</br>
 
 <a href="https://profile.codersrank.io/user/Jonathana1196">
   <img align="left" alt="Jonathan's CoderRanks" width="22px" src="https://user-images.githubusercontent.com/3371601/72540690-d32c8d80-3846-11ea-9690-c0ed6c479309.png" />
 </a>
-<!--<a href="https://discord.gg/">
-<img alt="Discord - Joty#6102" title="Discord - Joty#6102" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg">
-</a> -->
+
 <a href="#">
   <img alt="Epic Games - Joty11" title="Epic Games - Joty11" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/epicgames.svg">
 </a>
+
 <a href="https://www.linkedin.com/in/jonathanguzmanaraya/">
   <img align="left" alt="Jonathan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+
 <a href="https://myanimelist.net/profile/Joty11/">
   <img align="left" alt="Jonathan's MyAnimeList" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/myanimelist.svg" />
 </a>
+
 <a href="https://open.spotify.com/user/Jonathan1196/">
   <img align="left" alt="Jonathan's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
+
 <a href="https://steamcommunity.com/id/jonathana1196">
   <img alt="Steam" title="Steam" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/steam.svg">
 </a>
+
 <a href="https://t.me/Jonathana1196">
   <img align="left" alt="Jonathan's Telegram" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111646.svg" />
 </a>
+
 <a href="https://twitter.com/Jonathana1196">
   <img align="left" alt="Jonathana1196 | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
+
 <a href="https://www.youtube.com/channel/UCcNVs7MSdxvaSzE_0znI2pw">
   <img alt="YouTube" title="YouTube" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg">
 </a>
 
 </br>
 
-## **Español **
+<!--## **Español **
 
-### **Sobre mí:**
+### **Sobre mí:** -->
 
 <details>
   <summary>:zap: Estadísticas de GitHub</summary>
   <img src="https://github-readme-stats.vercel.app/api?username=Jonathana1196&&show_icons=true&theme=algolia&bg_color=DEG,000000,151515,101015&icon_color=155085&title_color=155099&locale=es&count_private=true">
 </details>
-
 
 
 ## **Technology**
@@ -82,7 +107,7 @@
 
 ## **Learning**
 
-
+![AndroidStudio](https://img.shields.io/badge/-AndroidStudio-239120?style=flat-square&logo=AndroidStudio)
 
 <br>
 
@@ -95,21 +120,3 @@
 </div>
 
 <br>
-
-
-
-<!--
-**Jonathana1196/Jonathana1196** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ... 
-- 👯 I’m looking to collaborate on ... 
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ... Anything
-- 📫 How to reach me: ... 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
--->
