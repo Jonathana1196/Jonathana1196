@@ -110,7 +110,7 @@ Here are some ideas to get you started:
 
 ![AndroidStudio](https://img.shields.io/badge?color=3DDC84&label=AndroidStudio&logo=Android%20Studio&logoColor=3DDC84)
 
-![AndroidStudio](https://img.shields.io/badge/-AndroidStudio-3DDC84?style=flat-square&logo=AndroidStudio)
+![AndroidStudio](https://img.shields.io/badge/-AndroidStudio-3DDC84?style=flat-square&logo=Android%20Studio)
 ![SQLite](https://img.shields.io/badge/-SQLite-00599C?style=flat-square&logo=SQLite)
 
 <br>
