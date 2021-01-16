@@ -107,7 +107,7 @@ Here are some ideas to get you started:
 
 ## **Learning**
 
-![AndroidStudio](https://img.shields.io/badge/-AndroidStudio?style=flat-square&logo=Android%20Studio)
+![AndroidStudio](https://img.shields.io/badge/-AndroidStudio-1E88E5?style=flat-square&logo=Android%20Studio)
 ![SQLite](https://img.shields.io/badge/-SQLite-00599C?style=flat-square&logo=SQLite)
 
 <br>
