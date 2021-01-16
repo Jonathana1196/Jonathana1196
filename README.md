@@ -4,10 +4,8 @@
   <img src="https://komarev.com/ghpvc/?username=ErickOF&label=Profile%20views&color=0e75b6&style=flat%22" alt="xtenzq"/>
 </p> -->
 
-<a>
-  <img align="center">
+<a align="center">
   [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=jonathan1196&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
-  </img>
 </a>
 
 <a href="https://profile.codersrank.io/user/Jonathana1196">
