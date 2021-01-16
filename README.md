@@ -100,7 +100,7 @@ Here are some ideas to get you started:
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=Postman)
 ![SASS](https://img.shields.io/badge/-SASS-black?style=flat-square&logo=sass)
-![SQL](https://img.shields.io/badge/-SQL-00599C?style=flat-square&logo=SQL)
+![MicrosoftSQL](https://img.shields.io/badge/-MicrosoftSQL-00599C?style=flat-square&logo=MicrosoftSQL)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=Ubuntu)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=Visual-Studio-Code)
