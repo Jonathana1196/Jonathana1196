@@ -1,11 +1,8 @@
 ### Hi there 👋
 
-
-<!--<a href="https://github.com/kittinan/spotify-github-profile" target="blank">
-  <img align="right"
-    src="https://spotify-github-profile.vercel.app/api/view?uid=jonathan1196&cover_image=true&theme=default"
-    alt="spotify" />
-</a>-->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=ErickOF&label=Profile%20views&color=0e75b6&style=flat%22" alt="xtenzq"/>
+</p>
 
 <a href="https://profile.codersrank.io/user/Jonathana1196">
   <img align="left" alt="Jonathan's CoderRanks" width="22px" src="https://user-images.githubusercontent.com/3371601/72540690-d32c8d80-3846-11ea-9690-c0ed6c479309.png" />
