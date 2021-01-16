@@ -108,6 +108,7 @@ Here are some ideas to get you started:
 ## **Learning**
 
 ![AndroidStudio](https://img.shields.io/badge/-AndroidStudio-239120?style=flat-square&logo=AndroidStudio)
+![SQLite](https://img.shields.io/badge/-SQLite-239120?style=flat-square&logo=AndroidStudio)
 
 <br>
 
