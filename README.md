@@ -100,7 +100,10 @@ Here are some ideas to get you started:
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=Postman)
 ![SASS](https://img.shields.io/badge/-SASS-black?style=flat-square&logo=sass)
-![MicrosoftSQLServer](https://img.shields.io/badge/-MicrosoftSQLServer-CC2927?style=flat-square&logo=MicrosoftSQLServer)
+
+![MicrosoftSQLServer](https://img.shields.io/endpoint?color=CC2927&label=Microsoft%20SQL%20Server&logo=Microsoft%20SQL%20Server)
+![MicrosoftSQLServer](https://img.shields.io/badge/-MicrosoftSQLServer-CC2927?style=flat-square&logo=Microsoft%20SQL%20Server)
+
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=Ubuntu)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=Visual-Studio-Code)
@@ -108,9 +111,7 @@ Here are some ideas to get you started:
 
 ## **Learning**
 
-![AndroidStudio](https://img.shields.io/badge?color=3DDC84&label=AndroidStudio&logo=Android%20Studio&logoColor=3DDC84)
-
-![AndroidStudio](https://img.shields.io/badge/-AndroidStudio-3DDC84?style=flat-square&logo=Android%20Studio)
+![AndroidStudio](https://img.shields.io/badge/-AndroidStudio-green?style=flat-square&logo=Android%20Studio)
 ![SQLite](https://img.shields.io/badge/-SQLite-00599C?style=flat-square&logo=SQLite)
 
 <br>
