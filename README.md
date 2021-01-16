@@ -5,7 +5,9 @@
 </p> -->
 
 <a>
-  <img align="center" [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=jonathan1196&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)/>
+  <img align="center">
+  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=jonathan1196&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
+  </img>
 </a>
 
 <a href="https://profile.codersrank.io/user/Jonathana1196">
