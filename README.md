@@ -123,7 +123,7 @@ Estadísticas de GitHub
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonathana1196&show_icons=true&langs_count=10,html&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@Jonathana1196&show_icons=true&theme=tokyonight" />
-  <img src="https://github-profile-trophy.vercel.app/?username=Jonathana1196&column=7&theme=tokyonight" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Jonathana1196&column=7&theme=nightowl" />
 </div>
 
 <br>
