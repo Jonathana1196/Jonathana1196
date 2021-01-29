@@ -71,7 +71,7 @@ Here are some ideas to get you started:
 
 Estadísticas de GitHub
 <p align="center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=jonathana1196&show_icons=true&theme=radical&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api?username=jonathana1196&show_icons=true&theme=tokyonight&line_height=27">
 </p>
 
 <!--<details>
