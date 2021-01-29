@@ -27,8 +27,6 @@ Here are some ideas to get you started:
 
 </br>
 
-<div align="center">
-
 <a href="https://profile.codersrank.io/user/Jonathana1196">
   <img align="left" alt="Jonathan's CoderRanks" width="22px" src="https://user-images.githubusercontent.com/3371601/72540690-d32c8d80-3846-11ea-9690-c0ed6c479309.png" />
 </a>
@@ -64,8 +62,6 @@ Here are some ideas to get you started:
 <a href="https://www.youtube.com/channel/UCcNVs7MSdxvaSzE_0znI2pw">
   <img alt="YouTube" title="YouTube" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg">
 </a>
-
-</div>
 
 <a href="https://profile.codersrank.io/user/Jonathana1196">
   <img align="left" alt="Jonathan's CoderRanks" width="22px" src="https://user-images.githubusercontent.com/3371601/72540690-d32c8d80-3846-11ea-9690-c0ed6c479309.png" />
