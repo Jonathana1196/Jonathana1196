@@ -17,9 +17,6 @@ Here are some ideas to get you started:
 -->
 
 </br>
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Jonathana1196&label=Profile%20views&color=0e75b6&style=flat%22" alt="xtenzq"/>
-</p>
 
 </br>
 
@@ -27,9 +24,6 @@ Here are some ideas to get you started:
   <img align="center"
     src="https://spotify-github-profile.vercel.app/api/view?uid=jonathan1196&cover_image=true&theme=novatorem" alt="spotify" />
 </a>
-
-<!--
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=jonathan1196&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile) -->
 
 </br>
 
@@ -69,23 +63,19 @@ Here are some ideas to get you started:
   <img alt="YouTube" title="YouTube" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg">
 </a>
 
-
 </br>
 
 <!--## **Español **
 
 ### **Sobre mí:** -->
 
-Estadísticas de GitHub
+## **Estadísticas de GitHub**
+
 <p align="center">
   <img src = "https://github-readme-stats.vercel.app/api?username=jonathana1196&show_icons=true&theme=tokyonight&line_height=27">
 </p>
 
-<!--<details>
-  <!--<summary>:zap: Estadísticas de GitHub</summary>-->
-  <!--<img src="https://github-readme-stats.vercel.app/api?username=Jonathana1196&&show_icons=true&theme=algolia&bg_color=DEG,000000,151515,101015&icon_color=155085&title_color=155099&locale=es&count_private=true"> 
-</details>-->
-
+</br>
 
 ## **Technology**
 
