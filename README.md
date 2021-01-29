@@ -104,7 +104,7 @@ Here are some ideas to get you started:
 ![AndroidStudio](https://img.shields.io/badge/-AndroidStudio-1E88E5?style=flat-square&logo=Android%20Studio)
 ![Angular](https://img.shields.io/badge/-Angular-E23237?style=flat-square&logo=Angular)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c%2B%2B)
+![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=Firebase)
