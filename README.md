@@ -69,9 +69,11 @@ Here are some ideas to get you started:
 
 ### **Sobre mí:** -->
 
+Estadísticas de GitHub
 <details>
-  <summary>:zap: Estadísticas de GitHub</summary>
-  <img src="https://github-readme-stats.vercel.app/api?username=Jonathana1196&&show_icons=true&theme=algolia&bg_color=DEG,000000,151515,101015&icon_color=155085&title_color=155099&locale=es&count_private=true">
+  <!--<summary>:zap: Estadísticas de GitHub</summary>-->
+  <!--<img src="https://github-readme-stats.vercel.app/api?username=Jonathana1196&&show_icons=true&theme=algolia&bg_color=DEG,000000,151515,101015&icon_color=155085&title_color=155099&locale=es&count_private=true"> -->
+  <img src = "https://github-readme-stats.vercel.app/api?username=jonathana1196&show_icons=true&theme=radical&line_height=27">
 </details>
 
 
