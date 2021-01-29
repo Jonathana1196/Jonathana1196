@@ -76,8 +76,8 @@ Estadísticas de GitHub
 
 <!--<details>
   <!--<summary>:zap: Estadísticas de GitHub</summary>-->
-  <!--<img src="https://github-readme-stats.vercel.app/api?username=Jonathana1196&&show_icons=true&theme=algolia&bg_color=DEG,000000,151515,101015&icon_color=155085&title_color=155099&locale=es&count_private=true"> -->
-</details> -->
+  <!--<img src="https://github-readme-stats.vercel.app/api?username=Jonathana1196&&show_icons=true&theme=algolia&bg_color=DEG,000000,151515,101015&icon_color=155085&title_color=155099&locale=es&count_private=true"> 
+</details>-->
 
 
 ## **Technology**
@@ -121,7 +121,7 @@ Estadísticas de GitHub
 ## **Skills**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonathana1196&hide=C%23,BitBake,Shell&langs_count=12" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonathana1196&hide=css,html&theme=tokyonight,Shell&langs_count=12" />
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@Jonathana1196" />
   <img src="https://github-profile-trophy.vercel.app/?username=Jonathana1196&column=7&theme=onedark" />
 </div>
