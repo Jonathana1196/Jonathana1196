@@ -121,7 +121,7 @@ Estadísticas de GitHub
 ## **Skills**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonathana1196&hide=css,html&theme=tokyonight&line_height=27" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonathana1196&langs_count=8&hide=css,html&theme=tokyonight&line_height=27" />
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@Jonathana1196" />
   <img src="https://github-profile-trophy.vercel.app/?username=Jonathana1196&column=7&theme=onedark" />
 </div>
