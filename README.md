@@ -20,10 +20,10 @@ Here are some ideas to get you started:
 
 </br>
 
-<a align="center" href="https://github.com/kittinan/spotify-github-profile" target="blank">
+<p align="center" href="https://github.com/kittinan/spotify-github-profile" target="blank">
   <img align="center"
     src="https://spotify-github-profile.vercel.app/api/view?uid=jonathan1196&cover_image=true&theme=novatorem" alt="spotify" />
-</a>
+</p>
 
 </br>
 
