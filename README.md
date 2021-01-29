@@ -84,15 +84,10 @@ Here are some ideas to get you started:
 ## **Technology**
 
 ![Anaconda](https://img.shields.io/badge/-Anaconda-black?style=flat-square&logo=Anaconda)
-![Angular](https://img.shields.io/badge/-Angular-E23237?style=flat-square&logo=Angular)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=C%20Sharp)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitKraken](https://img.shields.io/badge/-GitKraken-181717?style=flat-square&logo=GitKraken)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![Java](https://img.shields.io/badge/-java-brown?style=flat-square&logo=java)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![JSON](https://img.shields.io/badge/-JSON-black?style=flat-square&logo=JSON)
 ![Jupyter](https://img.shields.io/badge/-Jupyter%20Notebooks-black?style=flat-square&logo=Jupyter)
 ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=Latex)
@@ -107,8 +102,14 @@ Here are some ideas to get you started:
 ## **Learning**
 
 ![AndroidStudio](https://img.shields.io/badge/-AndroidStudio-1E88E5?style=flat-square&logo=Android%20Studio)
+![Angular](https://img.shields.io/badge/-Angular-E23237?style=flat-square&logo=Angular)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c%2B%2B)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=Firebase)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Neo4j](https://img.shields.io/badge/-Neo4j-black?style=flat-square&logo=neo4j)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
