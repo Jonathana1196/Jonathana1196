@@ -27,6 +27,46 @@ Here are some ideas to get you started:
 
 </br>
 
+<div align="center">
+
+<a href="https://profile.codersrank.io/user/Jonathana1196">
+  <img align="left" alt="Jonathan's CoderRanks" width="22px" src="https://user-images.githubusercontent.com/3371601/72540690-d32c8d80-3846-11ea-9690-c0ed6c479309.png" />
+</a>
+
+<a href="#">
+  <img alt="Epic Games - Joty11" title="Epic Games - Joty11" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/epicgames.svg">
+</a>
+
+<a href="https://www.linkedin.com/in/jonathanguzmanaraya/">
+  <img align="left" alt="Jonathan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+
+<a href="https://myanimelist.net/profile/Joty11/">
+  <img align="left" alt="Jonathan's MyAnimeList" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/myanimelist.svg" />
+</a>
+
+<a href="https://open.spotify.com/user/Jonathan1196/">
+  <img align="left" alt="Jonathan's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+</a>
+
+<a href="https://steamcommunity.com/id/jonathana1196">
+  <img alt="Steam" title="Steam" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/steam.svg">
+</a>
+
+<a href="https://t.me/Jonathana1196">
+  <img align="left" alt="Jonathan's Telegram" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111646.svg" />
+</a>
+
+<a href="https://twitter.com/Jonathana1196">
+  <img align="left" alt="Jonathana1196 | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+
+<a href="https://www.youtube.com/channel/UCcNVs7MSdxvaSzE_0znI2pw">
+  <img alt="YouTube" title="YouTube" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg">
+</a>
+
+</div>
+
 <a href="https://profile.codersrank.io/user/Jonathana1196">
   <img align="left" alt="Jonathan's CoderRanks" width="22px" src="https://user-images.githubusercontent.com/3371601/72540690-d32c8d80-3846-11ea-9690-c0ed6c479309.png" />
 </a>
