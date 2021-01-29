@@ -17,13 +17,19 @@ Here are some ideas to get you started:
 -->
 
 </br>
-<!--<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=ErickOF&label=Profile%20views&color=0e75b6&style=flat%22" alt="xtenzq"/>
-</p> -->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Jonathana1196&label=Profile%20views&color=0e75b6&style=flat%22" alt="xtenzq"/>
+</p>
 
 </br>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=jonathan1196&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
+<a href="https://github.com/kittinan/spotify-github-profile" target="blank">
+  <img align="center"
+    src="https://spotify-github-profile.vercel.app/api/view?uid=jonathan1196&cover_image=true&theme=novatorem" alt="spotify" />
+</a>
+
+<!--
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=jonathan1196&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile) -->
 
 </br>
 
